@@ -1,0 +1,6 @@
+[book]
+authors = ["Alec Ghost"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdbook-test"
