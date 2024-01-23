@@ -1,3 +1,3 @@
 # Chapter 1
 
-Hello World!!!
+[Link to chapter 2](./chapter_2.md)
